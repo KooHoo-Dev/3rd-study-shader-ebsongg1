@@ -26,7 +26,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _ColorVariation: 0.35
-    - _FireflyRatio: 0.04
+    - _FireflyRatio: 0.071
     - _FireflySpeed: 1.5
     - _FlutterAmount: 0.05
     - _FlutterSpeed: 6

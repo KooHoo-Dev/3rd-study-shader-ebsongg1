@@ -40,17 +40,17 @@ Material:
     - _RippleSpeed: 1.2
     - _RippleStrength: 0.25
     - _ShallowAlpha: 0.5
-    - _SparkleAmount: 0.22
+    - _SparkleAmount: 0.306
     - _SparkleDensity: 4
     - _SparkleSpeed: 2
     - _WaveSpeed: 0.5
     m_Colors:
-    - _DeepColor: {r: 0.24, g: 0.58, b: 0.92, a: 1}
+    - _DeepColor: {r: 0.16470587, g: 0.38199547, b: 0.94509804, a: 1}
     - _FoamColor: {r: 0.9, g: 1.1, b: 1.5, a: 1}
     - _GlitterColor: {r: 2.5, g: 3, b: 4, a: 1}
     - _MoonColor: {r: 2.2, g: 2, b: 2.4, a: 1}
     - _MoonDirection: {r: -0.496904, g: 0.3478328, b: 0.7950464, a: 0}
-    - _ShallowColor: {r: 0.62, g: 0.93, b: 1, a: 1}
+    - _ShallowColor: {r: 0.19517623, g: 0.6715178, b: 0.9622642, a: 1}
     - _SkyHorizonColor: {r: 0.75, g: 0.85, b: 0.98, a: 1}
     - _SkyZenithColor: {r: 0.35, g: 0.5, b: 0.85, a: 1}
     - _SparkleColor: {r: 2.5, g: 3.5, b: 5, a: 1}

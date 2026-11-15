@@ -25,17 +25,17 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _BlurRadius: 0.008
+    - _BlurRadius: 0.0041
     - _BokehDensity: 5
     - _BokehSpeed: 0.03
     - _BokehStrength: 0.35
-    - _ChromaticAmount: 0.008
+    - _ChromaticAmount: 0.015
     - _HazeStrength: 0.05
     - _Intensity: 1
     - _MaskRadius: 0.3
     - _MaskSoftness: 0.55
     - _VignetteStrength: 0.6
-    - _WaveAmount: 0.004
+    - _WaveAmount: 0.00062
     - _WaveFrequency: 9
     - _WaveSpeed: 1.2
     m_Colors:
