@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SparklingSea
+  m_Shader: {fileID: 4800000, guid: 7b489618ada60184b99c72aebfb0b67f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _DepthRange: 2.5
+    - _DetailFadeDistance: 35
+    - _FoamDistance: 0.4
+    - _FoamLineSpeed: 0.5
+    - _FoamNoiseScale: 4
+    - _GlitterDensity: 8
+    - _GlitterPower: 150
+    - _GlitterSpeed: 5
+    - _GlitterSpread: 0.3
+    - _MoonSpecPower: 300
+    - _ReflectionStrength: 0.55
+    - _RippleScale: 2.5
+    - _RippleSpeed: 1.2
+    - _RippleStrength: 0.25
+    - _ShallowAlpha: 0.5
+    - _SparkleAmount: 0.22
+    - _SparkleDensity: 4
+    - _SparkleSpeed: 2
+    - _WaveSpeed: 0.5
+    m_Colors:
+    - _DeepColor: {r: 0.24, g: 0.58, b: 0.92, a: 1}
+    - _FoamColor: {r: 0.9, g: 1.1, b: 1.5, a: 1}
+    - _GlitterColor: {r: 2.5, g: 3, b: 4, a: 1}
+    - _MoonColor: {r: 2.2, g: 2, b: 2.4, a: 1}
+    - _MoonDirection: {r: -0.496904, g: 0.3478328, b: 0.7950464, a: 0}
+    - _ShallowColor: {r: 0.62, g: 0.93, b: 1, a: 1}
+    - _SkyHorizonColor: {r: 0.75, g: 0.85, b: 0.98, a: 1}
+    - _SkyZenithColor: {r: 0.35, g: 0.5, b: 0.85, a: 1}
+    - _SparkleColor: {r: 2.5, g: 3.5, b: 5, a: 1}
+    - _WaveA: {r: 1, g: 0.3, b: 0.1, a: 12}
+    - _WaveB: {r: -0.4, g: 1, b: 0.08, a: 7}
+    - _WaveC: {r: 0.7, g: 0.8, b: 0.06, a: 4.1}
+    - _WaveD: {r: -0.8, g: -0.2, b: 0.04, a: 2.3}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
